@@ -30,7 +30,7 @@ a {
     height: 40px;
     width: 40px;
 }
-.usericon span {
+.text-avatar {
     position: relative;
     top: 4px;
     display: inline-block;
